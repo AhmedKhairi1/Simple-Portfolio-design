@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Weather App",
+    "description": "A simple weather forecast app using OpenWeather API."
+  },
+  {
+    "id": 2,
+    "title": "Portfolio Website",
+    "description": "A responsive personal website to showcase my work."
+  },
+  {
+    "id": 3,
+    "title": "Todo List",
+    "description": "A task management tool with localStorage support."
+  }
+]
