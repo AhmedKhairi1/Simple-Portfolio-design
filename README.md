@@ -1,7 +1,7 @@
 # Simple-Portfolio-design
 
 While preparing for the ECPC, I decided to take a small break and build something fun and expressive.  
-This is a simple personal intro page built using only HTML and CSS no frameworks, no JavaScript, just clean markup and styling.
+This is a simple personal intro page built using only HTML, CSS ans JS, just clean markup and styling.
 
 ## 📌 What it includes
 - A short bio section
